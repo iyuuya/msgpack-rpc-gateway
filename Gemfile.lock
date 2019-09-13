@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    msgpack-rpc-gateway (0.1.0)
+    msgpack-rpc-gateway (0.0.1)
       msgpack-rpc (~> 0.6)
 
 GEM
